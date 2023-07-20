@@ -45,9 +45,3 @@ window.addEventListener('load', () => {
 
 
 })
-
-var element = document.getElementById('bvne');
-
-element.addEventListener('animationend', function() {
-    element.style.opacity = '0';
-})
